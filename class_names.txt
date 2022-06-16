@@ -1,0 +1,2 @@
+_background_
+drivable_area
