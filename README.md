@@ -10,3 +10,8 @@ Use the Segmentation_testing notebook if want to use without training.
 
 # Segmentation with ros
 Use script Seg_ros.py to run the segmentation in ros
+
+# Pre-trained weigh files
+Pretrained weight files can be downloaded from the following links:
+https://drive.google.com/file/d/19pHSl3nokhYaoCZjXt-CbQtVh-w2DrbF/view?usp=sharing
+https://drive.google.com/file/d/1P6x4FtGNGvAJfzI4k6y7gvx3fXmYMfcX/view?usp=sharing
